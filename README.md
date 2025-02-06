@@ -1,3 +1,4 @@
+<img src="" alt="Banner" style="width:100%; height:auto;">
 
 Hi, I’m **Salar**...  
 A Front-End Developer with expertise in:  

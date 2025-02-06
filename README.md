@@ -48,7 +48,7 @@ A dedicated Front-End Developer with a passion for designing and creating engagi
 
 ### 📬 Contact Me  
 <p>  
-  <a href="t.me/salitech_official" target="_blank">  
+  <a href="https://t.me/salitech_official" target="_blank">  
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=flat&logo=telegram&logoColor=white" alt="Telegram" />  
   </a>  
   <a href="https://www.instagram.com/salitech_official/" target="_blank">  

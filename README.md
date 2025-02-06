@@ -1,4 +1,4 @@
-<img src="https://github.com/SaliTech-official/SaliTech-official/blob/main/SaliTech-Baner.jpg" alt="Banner" style="width:100%; height:auto;">
+<img src="https://github.com/SaliTech-official/SaliTech-official/blob/main/SaliTech-Baner-GitHub.jpg" alt="Banner" style="width:100%; height:auto;">
 
 Hi, I’m **Salar**...  
 A Front-End Developer with expertise in:  

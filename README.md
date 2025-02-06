@@ -1,6 +1,3 @@
-
-*<div dir="ltr" align="left">  
-  
 Hi, I’m **Salar**...  
 A Front-End Developer with expertise in:  
 - UI/UX Design with Figma for creating intuitive and user-centered interfaces.  

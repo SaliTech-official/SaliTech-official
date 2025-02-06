@@ -39,6 +39,9 @@ A dedicated Front-End Developer with a passion for designing and creating engagi
   <a href="https://www.figma.com/" target="_blank">
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />  
   </a>
+  <a href="https://git-scm.com/" target="_blank">  
+    <img src="https://img.shields.io/badge/Git-%23F34F29.svg?style=flat&logo=git&logoColor=white" alt="Git" />  
+  </a>  
 </p>  
 
 ### 📬 Contact Me  

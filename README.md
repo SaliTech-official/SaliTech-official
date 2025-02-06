@@ -1,3 +1,9 @@
+<h1 align="center">  
+  <a href="" target="_blank">  
+    <img src="https://img.shields.io/badge/Welcome_to_my_profile-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="Welcome" />  
+  </a>  
+</h1>
+
 Hi, I’m **Salar**...  
 A Front-End Developer with expertise in:  
 - UI/UX Design with Figma for creating intuitive and user-centered interfaces.  

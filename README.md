@@ -6,7 +6,7 @@ A Front-End Developer with expertise in:
 - HTML, CSS, and Flexbox for building modern web layouts.  
 - JavaScript for creating dynamic, interactive applications.  
 - React for developing engaging user interfaces.  
-- Tailwind CSS and Bootstrap for crafting responsive and visually appealing designs efficiently.   
+- Tailwind CSS for crafting responsive and visually appealing designs efficiently.   
 
 ### 🎓 Education  
 - Currently a Computer Science student, gaining hands-on experience as an intern.  

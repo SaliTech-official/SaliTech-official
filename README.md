@@ -1,47 +1,63 @@
 <img src="https://github.com/SaliTech-official/SaliTech-official/blob/main/Banner.png" alt="Banner" style="width:100%; height:auto;">
 
-Hi, I’m **Salar**...  
-A Front-End Developer with expertise in:  
-- UI/UX Design with Figma for creating intuitive and user-centered interfaces.  
-- HTML, CSS, and Flexbox for building modern web layouts.  
-- JavaScript for creating dynamic, interactive applications.  
-- React for developing engaging user interfaces.  
-- Tailwind CSS for crafting responsive and visually appealing designs efficiently.   
+<h1 align="center">Hi, I'm Salar — aka <span style="color:#00AEEF;">SaliTech</span> 👋</h1>
+<p align="center">🚀 Frontend Developer • 🎨 UI/UX Designer • 🧠 Team Lead</p>
 
-### 🎓 Education  
-- Currently a Computer Science student, gaining hands-on experience as an intern.  
+---
 
-### 🌍 Languages  
-- Persian: Native language  
-- English: Proficient  
+🌟 *Blending creativity and technology to build beautiful, intuitive user experiences.*
 
-### 👤 Bio  
-A dedicated Front-End Developer with a passion for designing and creating engaging user experiences.  
+---
 
-### 🛠️ Tools & Technologies  
-<p>   
-  <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />  
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> 
-  </a> 
-  <a href="https://react.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />  
-  </a> 
-  <a href="https://www.figma.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />  
-  </a> 
-</p>  
+## 🧑‍💻 About Me
+I'm a **frontend developer** and **UI/UX designer** passionate about crafting interfaces that are not only elegant but also deeply functional.  
+Currently focused on:
+- ⚛️ **React development**
+- 🎨 Boosting design thinking
+- 💡 Enhancing creative coding energy  
+My goal is to build products where **design meets code** and every detail feels *just right*.
 
-### 📬 Contact Me  
-<p>  
-  <a href="https://t.me/salitech_official" target="_blank">  
-    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=flat&logo=telegram&logoColor=white" alt="Telegram" />  
-  </a>  
-  <a href="https://www.instagram.com/salitech_official/" target="_blank">  
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />  
-  </a>  
-  <a href="https://www.linkedin.com/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />  
-  </a>  
+---
+
+## 💼 What I Do
+
+### 🏋️‍♂️ Tom Gym Platform (Coming Soon)
+> Frontend Developer & Designer of a large-scale fitness platform — fully responsive, multilingual, and crafted with care.
+
+### 🤝 Digital Team Lead
+> Founder & lead of a small team that handles **full-cycle web projects** — from ideation and design to final launch.
+
+### 🔐 Secret Projects
+> Currently shaping two confidential tech projects — stay tuned 👀
+
+---
+
+## 🎯 My Focus Areas
+- ✨ Minimal but impactful design
+- 💻 Clean and maintainable code
+- 🧪 Creating meaningful user experiences
+- 🎯 UI/UX + Dev synergy
+
+---
+
+## 🛠 Tech Stack
+
+| Design | Frontend | Tools |
+|--------|----------|-------|
+| Figma, Photoshop, Adobe XD | HTML, CSS, JS, TS, React, Tailwind, Bootstrap | Git, GitHub, VSCode, Trello, Notion |
+
+---
+
+## 📡 Connect with Me
+
+- 📩 Email: [salitech.2008@gmail.com](mailto:salitech.2008@gmail.com)  
+- 💬 Telegram Chat: [@SaliTechOfficial](https://t.me/SaliTechOfficial)  
+- 📢 Telegram Channel: [SaliTech Official](https://t.me/salitech_official)  
+- 📸 Instagram: [@salitech_official](https://www.instagram.com/salitech_official/)
+
+---
+
+> 💡 *Built for change. Wired for growth.*
+
+---
+

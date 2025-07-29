@@ -21,7 +21,7 @@ My goal is to build products where **design meets code** and every detail feels 
 
 ## 💼 What I Do
 
-### 🏋️‍♂️ Tom Gym Platform (Coming Soon)
+### 🏋️‍♂️ Tam Sport Platform (Coming Soon)
 > Frontend Developer & Designer of a large-scale fitness platform — fully responsive, multilingual, and crafted with care.
 
 ### 🤝 Digital Team Lead

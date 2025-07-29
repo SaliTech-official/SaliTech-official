@@ -44,7 +44,7 @@ My goal is to build products where **design meets code** and every detail feels 
 
 | Design | Frontend | Tools |
 |--------|----------|-------|
-| Figma, Photoshop, Adobe XD | HTML, CSS, JS, TS, React, Tailwind, Bootstrap | Git, GitHub, VSCode, Trello, Notion |
+| Figma, Illustrator, Adobe XD | HTML, CSS, JS, TS, React, Tailwind, Bootstrap | Git, GitHub, VSCode, Cursor |
 
 ---
 
